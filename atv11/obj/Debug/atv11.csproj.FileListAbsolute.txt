@@ -1,0 +1,5 @@
+C:\Users\Alexandre\Documents\SharpDevelop Projects\atv11\atv11\bin\Debug\atv11.exe
+C:\Users\Alexandre\Documents\SharpDevelop Projects\atv11\atv11\bin\Debug\atv11.pdb
+C:\Users\Alexandre\Documents\SharpDevelop Projects\atv11\atv11\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alexandre\Documents\SharpDevelop Projects\atv11\atv11\obj\Debug\atv11.exe
+C:\Users\Alexandre\Documents\SharpDevelop Projects\atv11\atv11\obj\Debug\atv11.pdb
